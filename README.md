@@ -5,13 +5,13 @@
 ###  Oчень красивый плагин раскрывающихся карточек
 >  Оптимальный вариант для предложения различных товаров
 
-[![project website preview](images/cards.png)]
+![project website preview](images/cards.png)
 
 
 ###  Drag & Drop, мини-клон Trello
 >  Подходит для перетаскивания товаров в корзину или task-трекера
 
-[![project website preview](images/dnd.png)]
+![project website preview](images/dnd.png)
 
 ###  Слайдер картинок
 >  Вариант представления услуг или фотографий
