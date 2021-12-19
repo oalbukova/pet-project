@@ -16,14 +16,13 @@
 ###  Слайдер картинок
 >  Вариант представления услуг или фотографий
 
-[![project website preview](images/slider.png)]
+![project website preview](images/slider.png)
 
 ###  Визуальная мини-игра с динамической генерацией контента
 >  Освоение динамической генерации и оптимизации работы с JS
 
-[![project website preview](images/cards.png)]
 
 ###  Игра "Aim Game" с 3мя экранами
 >  Работа с анимацией, таймером и функционалом полноценной игры
 
-[![project website preview](images/cards.png)](https://oalbukova.github.io/REACT-BURGER/)
+
